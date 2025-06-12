@@ -1,0 +1,60 @@
+@charset "UTF-8";
+p {
+  color: darkred;
+  font-style: normal;
+  text-align: center;
+  font-weight: bolder;
+  font-stretch: expanded;
+  font-family: inherit;
+  font-size: 23px;
+  line-height: 25px;
+  width: 300px;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 20px;
+
+  }
+  .paragraf_2 {
+    color:darkred; background-color: rgb(255,255,255,0.4)}
+    .unutarnji_tekst{
+      background-color: rgba(0, 0, 0, 0.2);
+      padding: 30px;
+      margin: 80px;
+      width: 70%;
+
+    }
+  .novi_blok{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    margin: 380px;
+    width: 50%;
+
+
+      }
+h1,h2 {
+font-family: inherit;
+text-align: center;
+font-size-adjust: auto;
+  color:darkred;
+  }
+  span {color:darkred;}
+.pozadina {
+  background-image: url("SLIKE ATOM/pozadina-ja.jpg");
+}
+.drugapozadina{
+background-color: lightgreen;
+}
+
+a: link{
+  color: lightgreen;
+  background-color: white;
+  padding: 5px
+  line-height: 40px;
+  border:1px solid #000000;
+}
+a:hover{
+background-color: white;
+
+}
+img{
+height: 300px;
+}
